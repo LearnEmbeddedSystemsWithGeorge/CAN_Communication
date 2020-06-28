@@ -4,7 +4,10 @@
 # Whitelist some files
 !.gitignore
 !README.md
+!*.txt
 !*.c
 !*.h
+!*.ino
 
 !CAN_RTOS
+!libraries
