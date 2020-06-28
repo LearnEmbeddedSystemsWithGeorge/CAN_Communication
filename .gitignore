@@ -10,6 +10,13 @@
 !*.cpp
 !*.ino
 !*.pde
+!*.cproject
+!*.mxproject
+!*.project
+!*.ioc
+!*.ld
+!*.s
+.settings
 
 !CAN_RTOS
 !libraries
@@ -17,3 +24,12 @@
 !libraries/*/*
 !libraries/*/*/*
 !libraries/*/*/*/*
+!FreeRTOS_CubeMX
+!FreeRTOS_CubeMX/*
+!FreeRTOS_CubeMX/*/*
+!FreeRTOS_CubeMX/*/*/*
+!FreeRTOS_CubeMX/*/*/*/*
+!FreeRTOS_CubeMX/*/*/*/*/*
+!FreeRTOS_CubeMX/*/*/*/*/*/*
+!FreeRTOS_CubeMX/*/*/*/*/*/*/*
+!FreeRTOS_CubeMX/*/*/*/*/*/*/*/*
